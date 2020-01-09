@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Unity_VR_B1040413_Haki
   productName: Unity_VR_B1040413_Haki
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
